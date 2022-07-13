@@ -1,5 +1,4 @@
 ## Olá sou Michael Matheus 👋
-
 - 🔭 Trabalho atualmente como desenvolvedor front-end
 - 🌱 Estou estudando JavaScript
 - 🤔 Estou procurando novos horizontes para meu aprendizado e novos networks
@@ -9,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maiquinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiquinho&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Maiquinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maiquinho-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,6 +17,8 @@
   <img align="center" alt="Maiquinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Maiquinho-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+ 
+ ##
  
 <div> 
   <br>
