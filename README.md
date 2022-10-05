@@ -1,6 +1,6 @@
 ## Olá sou Michael Matheus 👋
-- 🔭 Trabalho atualmente como desenvolvedor front-end
-- 🌱 Estou estudando JavaScript, TypeScript, ReactJS e RegEx
+- 🔭 Trabalho atualmente como desenvolvedor full-stack
+- 🌱 Estou estudando JavaScript, TypeScript, ReactJS, PHP, SQL e RegEx
 - 🤔 Estou procurando novos horizontes para meu aprendizado e novos networks
 
 <div align="center">
