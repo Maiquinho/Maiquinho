@@ -1,5 +1,5 @@
 ## Olá sou Michael Matheus 👋
-- 🔭 Trabalho atualmente como desenvolvedor full-stack
+- 🔭 Trabalho atualmente como Desenvolvedor Full-stack
 - 🌱 Estou estudando JavaScript, TypeScript, ReactJS, PHP, SQL e RegEx
 - 🤔 Estou procurando novos horizontes para meu aprendizado e novos networks
 
