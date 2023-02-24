@@ -1,6 +1,6 @@
 ## Olá sou Michael Matheus 👋
 - 🔭 Trabalho atualmente como Desenvolvedor Full-stack
-- 🌱 Estou estudando Reactjs, TypeScript e GraphQL.
+- 🌱 Estou estudando PHP Orientado a Objetos
 - 🤔 Estou procurando novos horizontes para meu aprendizado e novos networks
 
 <div align="center">
